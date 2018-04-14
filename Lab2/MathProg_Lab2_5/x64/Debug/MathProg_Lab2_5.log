@@ -1,0 +1,6 @@
+﻿  Combi.cpp
+d:\кирилл\универ\мп\лабы\lab2\mathprog_lab2_5\combi.cpp(27): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+d:\кирилл\универ\мп\лабы\lab2\mathprog_lab2_5\combi.cpp(45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\кирилл\универ\мп\лабы\lab2\mathprog_lab2_5\combi.cpp(45): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note:  см. объявление "itoa"
+  MathProg_Lab2_5.vcxproj -> D:\Кирилл\Универ\мп\Лабы\Lab2\x64\Debug\MathProg_Lab2_5.exe
