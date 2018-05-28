@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  4lab_5.cpp
+d:\кирилл\универ\мп\лабы\4lab\4lab_5\4lab_5.cpp(16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LCS.cpp
+  Создание кода...
+  4lab_5.vcxproj -> D:\Кирилл\Универ\мп\Лабы\4lab\Debug\4lab_5.exe
